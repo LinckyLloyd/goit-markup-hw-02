@@ -1,8 +1,8 @@
 :root
 .body{
     font-family: "Roboto", sans-serif;
-    color: #434455;
-    background-color: #FFFFFF;}
+    color: var (--slate);
+    background-color: var (--slate)}
 
 .logo-style{
     font-family: "Raleway", sans-serif;

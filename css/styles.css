@@ -1,5 +1,21 @@
-:root
-.body{
+:root{
+    iris: #4D5AE5;
+    ocean: #404BBF;
+    navy-blue: #2E2F42;
+    green: #31D0AA;
+    slate: #434455;
+    light-slate: #8E8F99;
+    cornflower: #E7E9FC;
+    cloud: #F4F4FD;
+    navy-blue-modal: #2E2F42;
+    grey: #2E2F42;
+    white: #ffffff;
+    dairy: #fcfcfc;
+    
+}
+
+
+body{
     font-family: "Roboto", sans-serif;
     color: var (--slate);
     background-color: var (--slate)}

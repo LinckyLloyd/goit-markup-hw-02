@@ -30,7 +30,7 @@ body{
     color: #4d5ae5;
 }
     .inside-logo{
-        color: #2e2f42;
+        color: var(--navy-blue, #2E2F42);
         }
 
 .link{

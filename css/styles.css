@@ -139,6 +139,13 @@ body{
     text-transform: capitalize;
     color: var(--grey);
 }
+
+.list-four{
+    background-color: #FFFFFF;
+
+}
+
+
 .footerstyle{
 
 }

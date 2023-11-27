@@ -29,14 +29,15 @@ body{
     text-transform: uppercase;
     color: #4d5ae5;
 }
+    .inside-logo{
+        color: #2e2f42;
+        }
 
 .link{
     text-decoration: none;
 }
 
-.inside-logo{
-    color: #2e2f42;
-}
+
 
 /* Section 1 */
 .section-one {

@@ -56,9 +56,9 @@ body{
     color: #434455;
 }
 
-.contacts-style:hover {color: 404bbf;}
-.contacts-style:focus {color: 404bbf;}
-.contacts-style:active {404bbf}
+.contacts-style:hover {color: #404bbf;}
+.contacts-style:focus {color: #404bbf;}
+.contacts-style:active {color: #404bbf}
 
 /* Section 1 */
 .section-one {

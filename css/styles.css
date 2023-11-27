@@ -17,8 +17,8 @@
 
 body{
     font-family: "Roboto", sans-serif;
-    color: var (--slate);
-    background-color: var (--slate)} 
+    color: #434455; 
+    background-color: var (--#FFFFFF)} 
 
 /* Header */
 .header.link link{

@@ -46,7 +46,11 @@ body{
 }
 
 .address-style{
-    font-style: normal;
+    font-style: normal ;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    text-decoration: none;
 
 }
 

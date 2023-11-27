@@ -119,6 +119,7 @@ body{
 
 /* Section 3 */
 .section-three-header{
+    font-size: 36px;
     line-height: 1.11;
     text-align: center;
     text-transform: capitalize;

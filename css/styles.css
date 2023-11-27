@@ -201,3 +201,17 @@ body{
 .portfolio-logo{
     color: var(--grey);
 }
+
+.portfolioallbutton{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: var( --iris);
+    background-color: var(--cloud);
+    cursor: pointer;
+}
+
+.portfolioallbutton:hover {color: #FFFFFF;}
+.portfolioallbutton:focus {color: #FFFFFF;}

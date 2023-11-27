@@ -38,7 +38,7 @@ body{
     color: #4d5ae5;
 }
     .inside-logo{
-        color: var(--navy-blue, #2E2F42);
+        color: var (--slate);
         }
 
 .link{

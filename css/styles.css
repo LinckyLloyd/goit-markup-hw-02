@@ -224,10 +224,34 @@ body{
     color: #f4f4fd;
 }
 
-.bankapp {
+/* Portfolio Images */
+.default-list {
+    list-style: none;
+}
+
+/* Styling the list items */
+.list-item {
+    margin-bottom: 20px;
+}
+
+/* Styling the default link class */
+.default-link {
+    text-decoration: none;
+}
+
+/* Styling the custom header class */
+.custom-header {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: var(----navy-blue);
+    color: var(--navy-blue);
+}
+
+/* Styling the custom paragraph class */
+.custom-paragraph {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--slate;
 }

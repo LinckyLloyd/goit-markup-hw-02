@@ -93,14 +93,8 @@ body{
     cursor: pointer;
 }
 
-.first-section-button:hover, :focus {background-color: #404BBF;
+.first-section-button:hover, .first-section-button:focus {background-color: #404BBF;
 }
-
-.first-section-button
-:focus {
-    background
-}
-
 
 /* Section 2 */
 .section-two-header { 

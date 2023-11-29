@@ -215,6 +215,8 @@ body{
 
 .portfolioallbutton:hover {color: #FFFFFF;}
 .portfolioallbutton:focus {color: #FFFFFF;}
+.portfolioallbutton:hover{background-color: #404BBF;}
+.portfolioallbutton:focus {background-color: #404BBF;}
 
 /* Footer */
 .portfolio-footer{

@@ -223,3 +223,11 @@ body{
 .portfolio-footerinside-logo{
     color: #f4f4fd;
 }
+
+.portfolio-header {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: var(----navy-blue);
+}
